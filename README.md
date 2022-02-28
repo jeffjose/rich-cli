@@ -31,7 +31,7 @@ brew install rich
 
 Rich-CLI may be installed as a Python package.
 
-ℹ️ It is reccomended to create a *virtual environment* first, to avoid any dependency conflicts.
+ℹ️ It is recommended to create a *virtual environment* first, to avoid any dependency conflicts.
 
 ```
 python -m pip install rich-cli
